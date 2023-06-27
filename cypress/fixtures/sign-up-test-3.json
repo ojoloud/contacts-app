@@ -1,0 +1,15 @@
+[
+    {
+        "field_name" : "First Name"
+    },
+    {
+        "field_name" : "Last Name"
+    },
+    {
+        "field_name" : "Email"
+    },
+    {
+        "field_name" : "Password"
+    }
+
+]
